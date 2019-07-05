@@ -1,11 +1,11 @@
 export const FIREBASE_CONFIG = {
-    apiKey: "AIzaSyBFXWbsgtEbVFMZ4OpGtH8an6WzeyQDkbY",
-    authDomain: "fire-map-cc305.firebaseapp.com",
-    databaseURL: "https://fire-map-cc305.firebaseio.com",
-    projectId: "fire-map-cc305",
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
     storageBucket: "",
-    messagingSenderId: "674638854725",
-    appId: "1:674638854725:web:f2921ebfd76f5ce5"
+    messagingSenderId: "",
+    appId: ""
   };
 
   export const snapshotToArray = snapshot => {
